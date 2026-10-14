@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Unit4Cse226</string>
+    <string name="title_activity_state_handling_demo">StateHandlingDemo</string>
 </resources>
